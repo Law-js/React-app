@@ -1,0 +1,50 @@
+ARBORESCENCE DES COMPONENTS
+
+                                 App.js
+            ________________________|________________________                       
+           |                                                 |
+        Home.js                                           About.js
+    _______|____________                               ______|______
+   |       |            |                             |             |
+Nav.js   Logo.js    Countries.js                   Nav.js        Logo.js
+                        |
+                    Card.js
+
+component commence toujours par une majuscule
+______________________________________________________________________________
+
+INSTALLATION
+
+npx create-react-app nom-du-projet
+
+cd nom-du-projet
+
+code .  => ouvre vs code
+
+DANS LE DOSSIER DU PROJET 
+
+npm i -s react-dom react-router-dom node-sass@4.14.1
+
+npm start
+
+_________________________________________________________________________________
+
+racourcis pour créer un composant
+rsc
+_________________________________________________________________________________
+
+FAIRE UN FETCH
+
+npm i -s axios
+_________________________________________________________________________________
+
+LANCER  JSON-SERVER
+1. mettre dans package.json 
+"server": "json-server --w src/assets/db.json --port 3003"
+
+2. npm run server
+
+////////////////// 55 minutes
+
+npm start
+npm run server

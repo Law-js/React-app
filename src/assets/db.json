@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "author": "Law.js",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod totam a officia, expedita qui culpa repellendus dolore possimus quaerat adipisci, nisi architecto dolorum harum ipsa alias reiciendis illum. Ab soluta eaque ea beatae ducimus natus culpa laborum porro officiis perferendis ex, adipisci quibusdam nesciunt quidem atque earum consectetur consequatur, eius error sit accusamus facere hic in est. Ad, quasi repudiandae!",
+      "date": 1632305290780,
+      "id": 2
+    },
+    {
+      "author": "Mark Zuckerberg",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi veritatis architecto dicta quis maxime repellat cum assumenda dolore, neque suscipit ut nam minus cupiditate qui temporibus consectetur. Ab beatae repellat, autem possimus voluptate corporis ea ullam doloribus iste nam eveniet rem voluptatum ad laborum quod eaque reiciendis architecto laudantium aliquam at quia minus suscipit labore neque. Aliquam iusto cupiditate, explicabo ad vel laborum atque odit nesciunt quasi praesentium omnis earum inventore quo! Expedita unde libero ipsa et, quos optio nihil delectus iste facilis?",
+      "date": 1632305337277,
+      "id": 3
+    },
+    {
+      "author": "Elon Musk",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi veritatis architecto dicta quis maxime repellat cum assumenda dolore, neque suscipit ut nam minus cupiditate qui temporibus consectetur. Ab beatae repellat, autem possimus voluptate corporis ea ullam doloribus iste nam eveniet rem voluptatum ad laborum quod eaque reiciendis architecto laudantium aliquam at quia minus suscipit labore neque. Aliquam iusto cupiditate, explicabo ad vel laborum atque odit nesciunt quasi praesentium omnis earum inventore quo! Expedita unde libero ipsa et, quos optio nihil delectus iste facilis?",
+      "date": 1632305350644,
+      "id": 4
+    }
+  ]
+}
